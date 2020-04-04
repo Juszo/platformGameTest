@@ -21,3 +21,4 @@ public class Window
         game.start();
     }
 }
+//Tam ta ram Rysiek o to mi chodzi
